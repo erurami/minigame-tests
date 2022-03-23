@@ -1,0 +1,6 @@
+[submodule "libs"]
+	path = libs
+	url = https://github.com/erurami/minigames.git
+[submodule "tokenizer"]
+	path = tokenizer
+	url = https://github.com/erurami/tokenizer.git
